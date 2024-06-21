@@ -16,5 +16,7 @@ class Aluno:
         categoria = input('Categoria do aluno (Miss ou Mister): ')
         print(f'Aluno {nome} cadastrado com sucesso!')
 
+
+
 Aluno.cadastrar_aluno()
 # Aluno.listar_alunos()

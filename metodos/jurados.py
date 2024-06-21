@@ -12,7 +12,7 @@ class Jurados:
         Jurados(nome)
         print(f'Jurado {nome} cadastrado com sucesso!')
 
-    def
+    ### criar metodo de inserir notas
     
 
 
